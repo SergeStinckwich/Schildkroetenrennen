@@ -1,0 +1,3 @@
+initialization
+nbCasesMax
+	^ 10

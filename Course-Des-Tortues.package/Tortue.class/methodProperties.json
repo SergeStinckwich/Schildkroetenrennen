@@ -1,0 +1,14 @@
+{
+	"class" : {
+		"newWithColor:" : "zz 11/21/2006 19:02" },
+	"instance" : {
+		"aUneTortueDessus" : "zz 11/21/2006 19:29",
+		"auDessus" : "zz 11/21/2006 19:17",
+		"avancerUneCase" : "zz 11/21/2006 19:26",
+		"color" : "zz 11/21/2006 19:04",
+		"color:" : "zz 11/21/2006 19:02",
+		"initialize" : "zz 11/21/2006 19:00",
+		"mettreAuDessus:" : "zz 11/21/2006 19:44",
+		"nbCasesMax" : "zz 11/21/2006 19:13",
+		"position" : "zz 11/21/2006 19:02",
+		"reculerUneCase" : "zz 11/21/2006 19:31" } }

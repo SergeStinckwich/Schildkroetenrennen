@@ -1,0 +1,15 @@
+{
+	"category" : "Course-Des-Tortues",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"tortueRouge",
+		"tortueJaune" ],
+	"name" : "TortueTest",
+	"pools" : [
+		 ],
+	"super" : "TestCase",
+	"type" : "normal" }

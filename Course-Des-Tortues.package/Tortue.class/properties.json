@@ -1,0 +1,16 @@
+{
+	"category" : "Course-Des-Tortues",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"position",
+		"color",
+		"auDessus" ],
+	"name" : "Tortue",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }
